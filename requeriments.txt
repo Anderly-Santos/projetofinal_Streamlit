@@ -1,0 +1,9 @@
+pandas
+plotly
+streamlit
+sqlalchemy==2.0.19
+selenium
+matplotlib
+beautifulsoup4
+lxml
+seaborn
